@@ -1,2 +1,1 @@
-# dossier_de_competence
-Dossier de compétences
+Ce notebook à pour but de mettre en valeurs mes compétences diverses de développeur.
